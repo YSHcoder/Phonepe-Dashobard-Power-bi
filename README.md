@@ -101,5 +101,5 @@ Users can filter the dashboard by **Year**, **Quarter**, **State**, and **Transa
 
 ### 🏠 Dashboard Overview
 
-![Dashboard Overview]((https://github.com/YSHcoder/Phonepe-Dashobard-Power-bi/blob/main/PhonePe%20Dashboard%20image.png))
+![Dashboard Overview](https://github.com/YSHcoder/Phonepe-Dashobard-Power-bi/blob/main/PhonePe%20Dashboard%20image.png)
 
